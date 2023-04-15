@@ -1,0 +1,2 @@
+The project talks ab out the recipes of a food company.
+this is designed by the basic knowledge of HTML that have gathhered from the odin project and i believe this will be very useful in setting the structure of the Web page.
